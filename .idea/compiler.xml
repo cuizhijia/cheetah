@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cheetah-admin" />
+        <module name="cheetah-design" />
+        <module name="cheetah-amdin" />
+        <module name="cheetah-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cheetah-admin" target="1.8" />
+      <module name="cheetah-amdin" target="1.8" />
+      <module name="cheetah-common" target="1.8" />
+      <module name="cheetah-design" target="1.8" />
+      <module name="cheetah-panent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cheetah-admin" options="-parameters" />
+      <module name="cheetah-amdin" options="-parameters" />
+      <module name="cheetah-common" options="-parameters" />
+      <module name="cheetah-design" options="-parameters" />
+    </option>
+  </component>
+</project>

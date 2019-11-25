@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cheetah-admin/cheetah-admin.iml" filepath="$PROJECT_DIR$/cheetah-admin/cheetah-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cheetah-admin/cheetah-amdin.iml" filepath="$PROJECT_DIR$/cheetah-admin/cheetah-amdin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cheetah-common/cheetah-common.iml" filepath="$PROJECT_DIR$/cheetah-common/cheetah-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cheetah-design/cheetah-design.iml" filepath="$PROJECT_DIR$/cheetah-design/cheetah-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cheetah-panent.iml" filepath="$PROJECT_DIR$/cheetah-panent.iml" />
+    </modules>
+  </component>
+</project>
