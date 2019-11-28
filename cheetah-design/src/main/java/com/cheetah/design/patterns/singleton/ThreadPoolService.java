@@ -35,4 +35,10 @@ public class ThreadPoolService {
                 Executors.defaultThreadFactory() // 线程工厂
                 );
     }
+
+
+
+    public static ThreadPoolExecutor getInstance() {
+        return Inner.executor;
+    }
 }
