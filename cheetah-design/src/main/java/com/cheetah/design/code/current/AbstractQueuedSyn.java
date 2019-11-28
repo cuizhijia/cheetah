@@ -1,7 +1,6 @@
-package com.cheetah.design.code.aqs;
+package com.cheetah.design.code.current;
 
 import java.util.concurrent.locks.AbstractQueuedSynchronizer;
-import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 public class AbstractQueuedSyn {
 
@@ -9,5 +8,7 @@ public class AbstractQueuedSyn {
 
 
     }
+
+
 
 }
