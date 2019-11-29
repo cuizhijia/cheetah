@@ -41,4 +41,9 @@ public class ThreadPoolService {
     public static ThreadPoolExecutor getInstance() {
         return Inner.executor;
     }
+
+    public static void execute(Runnable runnable) {
+        getInstance().submit(runnable);
+
+    }
 }
