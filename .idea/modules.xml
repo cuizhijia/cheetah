@@ -3,11 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cheetah-admin/cheetah-admin.iml" filepath="$PROJECT_DIR$/cheetah-admin/cheetah-admin.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cheetah-algorihm/cheetah-algorihm.iml" filepath="$PROJECT_DIR$/cheetah-algorihm/cheetah-algorihm.iml" />
       <module fileurl="file://$PROJECT_DIR$/cheetah-admin/cheetah-amdin.iml" filepath="$PROJECT_DIR$/cheetah-admin/cheetah-amdin.iml" />
       <module fileurl="file://$PROJECT_DIR$/cheetah-common/cheetah-common.iml" filepath="$PROJECT_DIR$/cheetah-common/cheetah-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/cheetah-design/cheetah-design.iml" filepath="$PROJECT_DIR$/cheetah-design/cheetah-design.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cheetah-panent.iml" filepath="$PROJECT_DIR$/cheetah-panent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cheetah-gateway/cheetah-gateway.iml" filepath="$PROJECT_DIR$/cheetah-gateway/cheetah-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cheetah-netty/cheetah-netty.iml" filepath="$PROJECT_DIR$/cheetah-netty/cheetah-netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cheetah-ticket/cheetah-ticket.iml" filepath="$PROJECT_DIR$/cheetah-ticket/cheetah-ticket.iml" />
     </modules>
   </component>
 </project>

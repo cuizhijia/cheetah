@@ -1,0 +1,5 @@
+org.springframework.context.ApplicationListener=\
+  com.cheetah.gateway.listener.DemoApplicationListener
+
+org.springframework.context.ApplicationContextInitializer=\
+  com.cheetah.gateway.init.DemoInitializer

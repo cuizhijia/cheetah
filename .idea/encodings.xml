@@ -10,7 +10,12 @@
     <file url="file://$PROJECT_DIR$/cheetah-common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cheetah-design" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cheetah-design/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cheetah-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cheetah-netty/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cheetah-ticket/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tesseract4java/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../tesseract4java/src/main/resources" charset="UTF-8" />
   </component>
 </project>

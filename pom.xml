@@ -75,6 +75,19 @@
 
     </dependencies>
 
+<!--    <dependencyManagement>-->
+<!--        <dependencies>-->
+<!--            <dependency>-->
+<!--                <groupId>cn.hutool</groupId>-->
+<!--                <artifactId>hutool-bom</artifactId>-->
+<!--                <version>v5.8.32</version>-->
+<!--                <type>pom</type>-->
+<!--                &lt;!&ndash; 注意这里是import &ndash;&gt;-->
+<!--                <scope>import</scope>-->
+<!--            </dependency>-->
+<!--        </dependencies>-->
+<!--    </dependencyManagement>-->
+
     <build>
         <plugins>
             <plugin>
